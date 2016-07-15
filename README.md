@@ -3,4 +3,4 @@
 
 sample of training dataset
 ---------------------
-![example1]([Figures/sample of training dataset.png)
+![example1]([Figures/visualizedFilters.png)
