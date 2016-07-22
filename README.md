@@ -6,4 +6,4 @@ sample of training dataset
 
 Feature maps
 ---------------------
-![example1](Figures/Feature maps.png)
+![example1](Figures/FeatureMaps.png)
