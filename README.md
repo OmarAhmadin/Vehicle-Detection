@@ -1,6 +1,6 @@
-# vehicle-Detection
+# Vehicle Detection
 
-sample of training dataset
+Sample Of Training Datasets
 ---------------------
 ![example1](Figures/sample of training dataset.png)
 
