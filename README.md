@@ -2,7 +2,7 @@
 
 Sample Of Training Datasets
 ---------------------
-![trainingset_samples]Figures/trainingset_samples.png)
+![trainingset_samples](Figures/TrainingSet_Samples.png)
 
 Feature Maps
 ---------------------
