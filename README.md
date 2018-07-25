@@ -2,10 +2,10 @@
 
 Sample Of Training Datasets
 ---------------------
-![trainingset_samples](https://user-images.githubusercontent.com/17507035/43189144-9b11b4da-8ffe-11e8-9d4e-3608c495e734.png)
+![trainingset_samples]Figures/trainingset_samples.png)
 
-Feature maps
+Feature Maps
 ---------------------
-![example2](Figures/FeatureMaps.png)
+![FeatureMaps](Figures/FeatureMaps.png)
 
 
